@@ -17,8 +17,8 @@ body {
     width: 100%;
 }
 
-@media (min-width:768px) {
+/* @media (min-width: 768px) {
     .add__new__btn__mobile__only {
-        display: none;
+      display: none;
     }
-}
+  } */
